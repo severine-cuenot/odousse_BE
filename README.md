@@ -1,7 +1,10 @@
 # Ôdousse
 
-Ôdousse is a personnal project to practice SQL, BE, FE. It's gonna be hard but I'll do my best <3
-This is the attempt of BE part.
+Ôdousse is a personnal project to practice SQL, BE, FE... It's gonna be hard but I'll do my best <3
+This repo is the attempt of BE part.
+
+## Ressources
+MLD, MCD and all : [click here](https://docs.google.com/document/d/1YonQQs-8KdC9S_qlniXlW8TqHJtFWrBDhR6h7bty-to/edit?usp=drive_link)
 
 ## Webpack
 

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="363" height="601" viewBox="0 0 363 601" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="363" height="601" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association has -->
+<g>
+	<line x1="207" y1="313" x2="207" y2="152" stroke="#8073ac" stroke-width="2"/>
+	<text x="212" y="203" fill="#b35806" font-family="Verdana" font-size="12">0,1</text>
+	<line x1="207" y1="51" x2="207" y2="152" stroke="#8073ac" stroke-width="2"/>
+	<text x="212" y="110" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<g>
+		<path d="M211 127 a14 14 90 0 1 14 14 V152 h-36 V141 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M225 152 v11 a14 14 90 0 1 -14 14 H203 a14 14 90 0 1 -14 -14 V152 H36" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="189" y="127" width="36" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="189" y1="152" x2="225" y2="152" stroke="#8073ac" stroke-width="1"/>
+		<text x="196" y="144.75" fill="#000" font-family="Verdana" font-size="12">has</text>
+	</g>
+</g>
+
+<!-- Association be -->
+<g>
+	<line x1="83" y1="152" x2="83" y2="313" stroke="#8073ac" stroke-width="2"/>
+	<text x="88" y="203" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<line x1="83" y1="516" x2="83" y2="313" stroke="#8073ac" stroke-width="2"/>
+	<text x="88" y="432" fill="#b35806" font-family="Verdana" font-size="12">1,1</text>
+	<g>
+		<path d="M84 288 a14 14 90 0 1 14 14 V313 h-30 V302 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M98 313 v11 a14 14 90 0 1 -14 14 H82 a14 14 90 0 1 -14 -14 V313 H30" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="68" y="288" width="30" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="68" y1="313" x2="98" y2="313" stroke="#8073ac" stroke-width="1"/>
+		<text x="75" y="305.75" fill="#000" font-family="Verdana" font-size="12">be</text>
+	</g>
+</g>
+
+<!-- Association live -->
+<g>
+	<line x1="207" y1="313" x2="315" y2="313" stroke="#8073ac" stroke-width="2"/>
+	<text x="270" y="330" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<line x1="315" y1="152" x2="315" y2="313" stroke="#8073ac" stroke-width="2"/>
+	<text x="320" y="203" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<g>
+		<path d="M319 288 a14 14 90 0 1 14 14 V313 h-36 V302 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M333 313 v11 a14 14 90 0 1 -14 14 H311 a14 14 90 0 1 -14 -14 V313 H36" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="297" y="288" width="36" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="297" y1="313" x2="333" y2="313" stroke="#8073ac" stroke-width="1"/>
+		<text x="304" y="305.75" fill="#000" font-family="Verdana" font-size="12">live</text>
+	</g>
+</g>
+
+<!-- Association like -->
+<g>
+	<line x1="83" y1="516" x2="207" y2="516" stroke="#8073ac" stroke-width="2"/>
+	<text x="162" y="533" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<line x1="207" y1="313" x2="207" y2="516" stroke="#8073ac" stroke-width="2"/>
+	<text x="212" y="432" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<g>
+		<path d="M211 491 a14 14 90 0 1 14 14 V516 h-36 V505 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M225 516 v11 a14 14 90 0 1 -14 14 H203 a14 14 90 0 1 -14 -14 V516 H36" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="189" y="491" width="36" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="189" y1="516" x2="225" y2="516" stroke="#8073ac" stroke-width="1"/>
+		<text x="196" y="508.75" fill="#000" font-family="Verdana" font-size="12">like</text>
+	</g>
+</g>
+
+<!-- Entity CATEGORY -->
+<g>
+	<g>
+		<rect x="160" y="9" width="94" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="160" y="34" width="94" height="59" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="160" y="9" width="94" height="84" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="160" y1="34" x2="254" y2="34" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="174" y="26.75" fill="#000" font-family="Verdana" font-size="12">CATEGORY</text>
+	<text x="165" y="51.8" fill="#000" font-family="Verdana" font-size="12">codeCategory</text>
+	<line x1="165" y1="54" x2="249" y2="54" stroke="#000" stroke-width="1"/>
+	<text x="165" y="68.8" fill="#000" font-family="Verdana" font-size="12">name</text>
+	<text x="165" y="85.8" fill="#000" font-family="Verdana" font-size="12">image</text>
+</g>
+
+<!-- Entity ROLE -->
+<g>
+	<g>
+		<rect x="50" y="118" width="66" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="50" y="143" width="66" height="43" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="50" y="118" width="66" height="68" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="50" y1="143" x2="116" y2="143" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="67" y="135.75" fill="#000" font-family="Verdana" font-size="12">ROLE</text>
+	<text x="55" y="160.8" fill="#000" font-family="Verdana" font-size="12">codeRole</text>
+	<line x1="55" y1="163" x2="110" y2="163" stroke="#000" stroke-width="1"/>
+	<text x="55" y="177.8" fill="#000" font-family="Verdana" font-size="12">name</text>
+</g>
+
+<!-- Entity BIOTOP -->
+<g>
+	<g>
+		<rect x="276" y="118" width="78" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="276" y="143" width="78" height="43" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="276" y="118" width="78" height="68" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="276" y1="143" x2="354" y2="143" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="291" y="135.75" fill="#000" font-family="Verdana" font-size="12">BIOTOP</text>
+	<text x="281" y="160.8" fill="#000" font-family="Verdana" font-size="12">codeBiotop</text>
+	<line x1="281" y1="163" x2="348" y2="163" stroke="#000" stroke-width="1"/>
+	<text x="281" y="177.8" fill="#000" font-family="Verdana" font-size="12">name</text>
+</g>
+
+<!-- Entity CARD -->
+<g>
+	<g>
+		<rect x="149" y="211" width="116" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="149" y="236" width="116" height="179" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="149" y="211" width="116" height="204" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="149" y1="236" x2="265" y2="236" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="190" y="228.75" fill="#000" font-family="Verdana" font-size="12">CARD</text>
+	<text x="154" y="253.8" fill="#000" font-family="Verdana" font-size="12">scientific name</text>
+	<line x1="154" y1="256" x2="245" y2="256" stroke="#000" stroke-width="1"/>
+	<text x="154" y="270.8" fill="#000" font-family="Verdana" font-size="12">vernacular name</text>
+	<text x="154" y="287.8" fill="#000" font-family="Verdana" font-size="12">image</text>
+	<text x="154" y="304.8" fill="#000" font-family="Verdana" font-size="12">min PH</text>
+	<text x="154" y="321.8" fill="#000" font-family="Verdana" font-size="12">max PH</text>
+	<text x="154" y="338.8" fill="#000" font-family="Verdana" font-size="12">min temperature</text>
+	<text x="154" y="355.8" fill="#000" font-family="Verdana" font-size="12">max temperature</text>
+	<text x="154" y="372.8" fill="#000" font-family="Verdana" font-size="12">country</text>
+	<text x="154" y="389.8" fill="#000" font-family="Verdana" font-size="12">description</text>
+	<text x="154" y="406.8" fill="#000" font-family="Verdana" font-size="12">capacity</text>
+</g>
+
+<!-- Entity USER -->
+<g>
+	<g>
+		<rect x="9" y="440" width="148" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="9" y="465" width="148" height="127" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="9" y="440" width="148" height="152" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="9" y1="465" x2="157" y2="465" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="66" y="457.75" fill="#000" font-family="Verdana" font-size="12">USER</text>
+	<text x="14" y="482.8" fill="#000" font-family="Verdana" font-size="12">codeUser</text>
+	<line x1="14" y1="485" x2="70" y2="485" stroke="#000" stroke-width="1"/>
+	<text x="14" y="499.8" fill="#000" font-family="Verdana" font-size="12">pseudo</text>
+	<text x="14" y="516.8" fill="#000" font-family="Verdana" font-size="12">name</text>
+	<text x="14" y="533.8" fill="#000" font-family="Verdana" font-size="12">firstname</text>
+	<text x="14" y="550.8" fill="#000" font-family="Verdana" font-size="12">email</text>
+	<text x="14" y="567.8" fill="#000" font-family="Verdana" font-size="12">password</text>
+	<text x="14" y="584.8" fill="#000" font-family="Verdana" font-size="12">password confirmation</text>
+</g>
+</svg>

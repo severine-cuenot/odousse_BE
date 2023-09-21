@@ -1,0 +1,37 @@
+{
+  "width": 363,
+  "height": 601,
+  "cx": [
+    [ "CATEGORY", 207 ],
+    [ "ROLE", 83 ],
+    [ "has", 207 ],
+    [ "BIOTOP", 315 ],
+    [ "be", 83 ],
+    [ "CARD", 207 ],
+    [ "live", 315 ],
+    [ "USER", 83 ],
+    [ "like", 207 ]
+  ],
+  "cy": [
+    [ "CATEGORY", 51 ],
+    [ "ROLE", 152 ],
+    [ "has", 152 ],
+    [ "BIOTOP", 152 ],
+    [ "be", 313 ],
+    [ "CARD", 313 ],
+    [ "live", 313 ],
+    [ "USER", 516 ],
+    [ "like", 516 ]
+  ],
+  "shift": [
+    [ "has,CARD,0", 0 ],
+    [ "has,CATEGORY,0", 0 ],
+    [ "be,ROLE,0", 0 ],
+    [ "be,USER,0", 0 ],
+    [ "live,CARD,0", 0 ],
+    [ "live,BIOTOP,0", 0 ],
+    [ "like,USER,0", 0 ],
+    [ "like,CARD,0", 0 ]
+  ],
+  "ratio": []
+}

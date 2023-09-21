@@ -1,0 +1,15 @@
+:
+CATEGORY: codeCategory, name, image
+:
+
+ROLE: codeRole, name
+has, 01 CARD, 0N CATEGORY
+BIOTOP: codeBiotop, name
+
+be, 0N ROLE, 11 USER
+CARD: scientific name, vernacular name, image, min PH, max PH, min temperature, max temperature, country, description, capacity
+live, 0N CARD, 0N BIOTOP
+
+USER: codeUser, pseudo, name, firstname, email, password, password confirmation
+like, 0N USER, 0N CARD
+:
