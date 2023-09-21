@@ -1,0 +1,31 @@
+{
+  "width": 339,
+  "height": 599,
+  "cx": [
+    [ "CATEGORY", 67 ],
+    [ "has", 67 ],
+    [ "CARD", 67 ],
+    [ "be", 191 ],
+    [ "ROLE", 297 ],
+    [ "like", 67 ],
+    [ "USER", 191 ]
+  ],
+  "cy": [
+    [ "CATEGORY", 51 ],
+    [ "has", 143 ],
+    [ "CARD", 303 ],
+    [ "be", 303 ],
+    [ "ROLE", 303 ],
+    [ "like", 514 ],
+    [ "USER", 514 ]
+  ],
+  "shift": [
+    [ "has,CARD,0", 0 ],
+    [ "has,CATEGORY,0", 0 ],
+    [ "be,ROLE,0", 0 ],
+    [ "be,USER,0", 0 ],
+    [ "like,USER,0", 0 ],
+    [ "like,CARD,0", 0 ]
+  ],
+  "ratio": []
+}

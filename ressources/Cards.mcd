@@ -1,0 +1,15 @@
+CATEGORY: codeCategory, name, image
+:
+:
+
+has, 01 CARD, 01 CATEGORY
+:
+:
+
+CARD: scientific name, vernacular name, category, image, min PH, max PH, min temperature, max temperature, country, description, capacity
+be, 0N ROLE, 11 USER
+ROLE: codeRole, name
+
+like, 0N USER, 0N CARD
+USER: codeUser, pseudo, name, firstname, email, password, password confirmation
+:
