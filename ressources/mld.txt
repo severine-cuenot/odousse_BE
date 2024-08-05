@@ -1,0 +1,4 @@
+Poisson (id_poisson, nomV, nomS, banc, pays, longévité, tailleMax, PHMax, PHMin, #id_aquarium)
+Biotope (id_biotope, nom)
+Aquarium (id_aquarium, litres, température, PH)
+Appartenir (id_poisson, id_aquarium)
